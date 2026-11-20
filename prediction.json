@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "affordableenergy.ca/gas-prices/calgary",
-  "fetched_at": "2026-11-19T21:30:00Z",
+  "fetched_at": "2026-11-20T12:00:00Z",
   "days": [
-    {
-      "date": "2026-11-18",
-      "label": "Wednesday, November 18, 2026",
-      "prices": {
-        "regular": 120.9,
-        "premium": 148.9,
-        "diesel": 206.9
-      },
-      "changes": {
-        "regular": 0.0,
-        "premium": 0.0,
-        "diesel": 0.0
-      }
-    },
     {
       "date": "2026-11-19",
       "label": "Thursday, November 19, 2026",
@@ -34,6 +20,20 @@
     {
       "date": "2026-11-20",
       "label": "Friday, November 20, 2026",
+      "prices": {
+        "regular": 120.9,
+        "premium": 148.9,
+        "diesel": 200.9
+      },
+      "changes": {
+        "regular": 0.0,
+        "premium": 0.0,
+        "diesel": 0.0
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "label": "Saturday, November 21, 2026",
       "prices": {
         "regular": 120.9,
         "premium": 148.9,
